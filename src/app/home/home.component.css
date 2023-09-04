@@ -1,0 +1,254 @@
+.shop{
+padding-left: 83%;
+ text-decoration: underline;
+ font-size: 17px;
+ text-shadow: 0px 0px 3px;
+ font-family: proxima-nova,sans-serif;
+}
+
+.shop:hover{
+    text-decoration: underline;
+    font-size: 17px;
+    padding-left: 82%;
+}
+
+.lat{
+    text-align: center;
+    font-family: proxima-nova,sans-serif;
+    font-weight: 300;
+    font-size: x-large;
+    text-shadow: 0px 0px 3px;
+    text-decoration: underline;
+}
+
+.shops{
+    padding-left: 17%;
+     text-decoration: underline;
+     font-size: 17px;
+     text-shadow: 0px 0px 3px;
+     font-family: proxima-nova,sans-serif
+    }
+
+.shop1{
+        padding-left: 67%;
+         text-decoration: underline;
+         font-size: 17px;
+         text-shadow: 0px 0px 3px;
+         font-family: proxima-nova,sans-serif
+        }
+
+.shop2{
+        padding-left: 17%;
+        text-decoration: underline;
+        font-size: 17px;
+        text-shadow: 0px 0px 3px;
+        font-family: proxima-nova,sans-serif
+        }
+
+.shop3{
+        padding-left: 17%;
+        text-decoration: underline;
+        font-size: 17px;
+        text-shadow: 0px 0px 3px;
+        font-family: proxima-nova,sans-serif
+        }
+
+.shop4{
+        padding-left:  67%;
+        text-decoration: underline;
+        font-size: 17px;
+        text-shadow: 0px 0px 3px;
+        font-family: proxima-nova,sans-serif
+        }
+
+.shop5{
+        padding-left: 17%;
+        text-decoration: underline;
+        font-size: 17px;
+        text-shadow: 0px 0px 3px;
+        font-family: proxima-nova,sans-serif
+        }
+
+.shop6{
+        padding-left: 67%;
+        text-decoration: underline;
+        font-size: 17px;
+        text-shadow: 0px 0px 3px;
+        font-family: proxima-nova,sans-serif
+        }
+
+.shop7{
+        padding-left: 67%;
+        text-decoration: underline;
+        font-size: 17px;
+        text-shadow: 0px 0px 3px;
+        font-family: proxima-nova,sans-serif
+        }
+
+ /* .mail:hover{
+     padding-left: 1%;
+ }
+
+ .signIn{
+        padding-left: 200px;
+        font-size: large;
+        font-weight: 100;
+        cursor: pointer;
+        font-family: proxima-nova,sans-serif
+ }
+ .signIn:hover{
+        padding-left: 220px;
+ }
+ .aboutDt{
+        font-size: large;
+        font-weight: 100;
+        cursor: pointer;
+        font-family: proxima-nova,sans-serif
+ }
+ .aboutDt:hover{
+   padding-left: 20px;
+ }
+ .cus{
+        font-size: large;
+        font-weight: 100;
+        cursor: pointer;
+        font-family: proxima-nova,sans-serif
+ }
+ .cus:hover{
+        padding-left: 20px;
+ }
+ .covid{
+        padding-left: 1100px;
+        font-size: large;
+        font-weight: 100;
+        cursor: pointer;
+        font-family: proxima-nova,sans-serif
+ }
+ .covid:hover{
+        padding-left: 1120px;
+ }
+ .iconscmd{
+        font-size: large;
+        font-weight: 100;
+        font-family: proxima-nova,sans-serif
+ } */
+
+ .menu-item:hover .dropdown-content {display: block;}
+ /* .dropdown-content a:hover {background-color: greenyellow;color: black;} */
+ .menu-item:hover font{color: limegreen;}
+
+ .dropdown-content {
+       width: 70%;
+       height: 600px;
+       display: none;
+       position: absolute;
+       background-color: white;
+       color: black;
+       min-width: 160px;
+       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+       z-index: 1;
+       left: 10%;
+     }
+
+     .dropdown-content a {
+       color: black;
+       padding: 12px 16px;
+       text-decoration: none;
+       display: block;
+     }
+
+     .menu-item1:hover .dropdown-content1 {display: block;}
+     .menu-item1:hover font{color: limegreen;}
+
+     .dropdown-content1 {
+           width: 70%;
+           height: 600px;
+           display: none;
+           position: absolute;
+           background-color: white;
+           color: black;
+           min-width: 160px;
+           box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+           z-index: 1;
+           left: 10%;
+         }
+
+         .dropdown-content1 a {
+           color: black;
+           padding: 12px 16px;
+           text-decoration: none;
+           display: block;
+         }
+
+
+         .menu-item2:hover .dropdown-content2 {display: block;}
+         .menu-item2:hover font{color: limegreen;}
+
+         .dropdown-content2 {
+               width: 70%;
+               height: 600px;
+               display: none;
+               position: absolute;
+               background-color: white;
+               color: black;
+               min-width: 160px;
+               box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+               z-index: 1;
+               left: 10%;
+             }
+
+             .dropdown-content2 a {
+               color: black;
+               padding: 12px 16px;
+               text-decoration: none;
+               display: block;
+             }
+
+
+             .menu-item3:hover .dropdown-content3 {display: block;}
+             .menu-item3:hover font{color: limegreen;}
+
+             .dropdown-content3 {
+                   width: 70%;
+                   height: 600px;
+                   display: none;
+                   position: absolute;
+                   background-color: white;
+                   color: black;
+                   min-width: 160px;
+                   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                   z-index: 1;
+                   left: 10%;
+                 }
+
+                 .dropdown-content3 a {
+                   color: black;
+                   padding: 12px 16px;
+                   text-decoration: none;
+                   display: block;
+                 }
+
+
+                 .menu-item4:hover .dropdown-content4 {display: block;}
+         .menu-item4:hover font{color: limegreen;}
+
+         .dropdown-content4 {
+               width: 70%;
+               height: 600px;
+               display: none;
+               position: absolute;
+               background-color: white;
+               color: black;
+               min-width: 160px;
+               box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+               z-index: 1;
+               left: 10%;
+             }
+
+             .dropdown-content4 a {
+               color: black;
+               padding: 12px 16px;
+               text-decoration: none;
+               display: block;
+             }
+
